@@ -2,7 +2,6 @@
 # Accelerating the Scalable Data Science Environment with GPU-enabled Python
 
 ## KDD'18 Hands-On Tutorial
-## Tuesday 8:30 am
 
 ## ![](https://nvidianews.nvidia.com/media/sites/219/images/logo.png)
 
